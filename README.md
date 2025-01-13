@@ -1,5 +1,3 @@
-# stm32f446_driver
-STM32F446RE | Driver Development | I2C | SPI | UART | GPIO | DS1307 RTC | 16x2 LCD | Embedded Systems | Peripheral Drivers
 # Real-Time Clock (RTC) with DS1307 and LCD Display on STM32F446RE
 
 This project demonstrates the use of the **STM32F446RE** microcontroller to interface with the **DS1307 Tiny RTC module** over **I2C**, and display real-time data on a **16x2 LCD**. It showcases your expertise in developing custom drivers for **I2C**, **SPI**, **GPIO**, and **USART** on the STM32F446RE. The project highlights how to handle real-time clock functionality using the DS1307 RTC and manage periodic updates via the **SysTick timer**.
@@ -96,8 +94,10 @@ The main function initializes the **RTC** and **LCD**, sets the date and time fo
 
 ## Conclusion
 
-This project serves as a practical example of how to implement **I2C**, **SPI**, **GPIO**, and **USART** drivers on the **STM32F446RE** microcontroller. It demonstrates your ability to write custom embedded drivers for peripherals and handle communication protocols like **I2C** for the **DS1307 RTC**, **GPIO** for the LCD, and periodic updates using the **SysTick timer**. This showcases your embedded system development skills and understanding of STM32 hardware.
+This project is a practical example of implementing **I2C**, **SPI**, **GPIO**, and **USART** drivers on the **STM32F446RE** microcontroller. It demonstrates your ability to write custom embedded drivers for peripherals and handle communication protocols like **I2C** for the **DS1307 RTC**, **GPIO** for the LCD, and periodic updates using the **SysTick timer**. This showcases your embedded system development skills and understanding of STM32 hardware.
 
 ## Notes
 - Ensure that the clock source for the **SysTick timer** is correctly configured.
 - Adjust the I2C communication speed and addresses if necessary for compatibility with your specific hardware.
+
+![photo_2025-01-13_18-40-36](https://github.com/user-attachments/assets/a8b2877f-afcc-437f-9e38-cc0af4bb718e)
