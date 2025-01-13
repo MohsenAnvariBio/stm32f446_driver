@@ -1,6 +1,6 @@
 # Real-Time Clock (RTC) with DS1307 and LCD Display on STM32F446RE
 
-This project demonstrates the use of the **STM32F446RE** microcontroller to interface with the **DS1307 Tiny RTC module** over **I2C**, and display real-time data on a **16x2 LCD**. It showcases your expertise in developing custom drivers for **I2C**, **SPI**, **GPIO**, and **USART** on the STM32F446RE. The project highlights how to handle real-time clock functionality using the DS1307 RTC and manage periodic updates via the **SysTick timer**.
+This project demonstrates the use of the **STM32F446RE** microcontroller to interface with the **DS1307 Tiny RTC module** over **I2C**, and display real-time data on a **16x2 LCD**. It showcases my expertise in developing custom drivers for **I2C**, **SPI**, **GPIO**, and **USART** on the STM32F446RE. The project highlights how to handle real-time clock functionality using the DS1307 RTC and manage periodic updates via the **SysTick timer**.
 
 ### Key Areas of Expertise:
 - **I2C Driver**: Custom driver for communicating with the DS1307 RTC module.
